@@ -84,8 +84,6 @@ class CalculateButton(ft.FilledButton):
                                                ft.Text(value=dialogs_texts[4]),
                                                ft.Text(value=dialogs_texts[5])], height=250)
 
-        for i in range(0, len(players)):
-            print(players[i]["total"])
 
 
 
